@@ -86,9 +86,4 @@ The leaderboard ranked models by **Root Mean Squared Error (RMSE)** and **R² Sc
 - **Google Colab**
 - **GitHub for version control**
 
----
 
-## Author
-Alekya Gudise
-Master’s in Software Engineering — San José State University  
-Data Mining Assignment — Fall 2025
